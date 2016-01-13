@@ -6,6 +6,8 @@ package WordList::SU::LTIS;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: Sundanese words Loka Tarjamah Otomatis Indonesia-Sunda
 

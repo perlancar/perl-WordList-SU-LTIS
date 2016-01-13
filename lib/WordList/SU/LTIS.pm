@@ -9,7 +9,7 @@ our @ISA = qw(WordList);
 # STATS
 
 1;
-# ABSTRACT: Sundanese words Loka Tarjamah Otomatis Indonesia-Sunda
+# ABSTRACT: Sundanese words from Loka Tarjamah Otomatis Indonesia-Sunda
 
 =head1 DESCRIPTION
 

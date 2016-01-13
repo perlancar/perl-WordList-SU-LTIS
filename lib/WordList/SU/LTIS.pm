@@ -3,6 +3,8 @@ package WordList::SU::LTIS;
 # DATE
 # VERSION
 
+use utf8;
+
 use WordList;
 our @ISA = qw(WordList);
 
